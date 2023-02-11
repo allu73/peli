@@ -1,2 +1,2 @@
 # peli
-tarkoitus kerätä kolikoita ja vältellä hirviöitä. 
+Pelin tarkoitus kerätä kolikoita ja vältellä hirviöitä. 
